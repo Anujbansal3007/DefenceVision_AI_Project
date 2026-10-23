@@ -1,4 +1,7 @@
-streamlit>=1.36
-ultralytics>=8.3.0
-pandas>=2.0
-pillow>=10.0
+
+streamlit
+ultralytics
+pillow
+pandas
+numpy
+opencv-python-headless
